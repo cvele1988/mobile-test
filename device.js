@@ -36,7 +36,7 @@
 ['a15', '1284x2778', ['iPhone 13 Pro Max']],
 ['a15', '1668x2388', ['iPad Pro (4th generation, 11-inch)']],
             ['a15', '2048x2732', ['iPad Pro (4th generation, 12.9-inch)']],
-             ['a16', '2796×1290', ['iPad14 pro max']]
+             ['a16', '1290x2796', ['iPad14 pro max']]
             
         ];
 
