@@ -51,6 +51,7 @@
     function getGl() {
         if (gl == null) {
             gl = getCanvas().getContext('experimental-webgl');
+            alert(gl);
         }
 
         return gl;
